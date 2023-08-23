@@ -37,6 +37,36 @@ https://daniel-chacon-video-poker.netlify.app/
 
 Разновидность "Валеты и старше" ("Валеты и выше", "Валеты и лучше").
 
-Игра но основе пятикарточного покера.
+Игра на основе пятикарточного покера.
 
 Написана на React.js, с использованием MobX.
+
+---
+
+## Проекты для freeCodeCamp
+
+Все написаны на React.js.
+
+### 25 + 5 Clock 
+
+https://codepen.io/danielchacon/full/LYXqMXr
+
+Таймер для управления рабочим временем, работающий по технике Pomodoro.
+
+### Калькулятор
+
+https://codepen.io/danielchacon/full/WNYYyjz
+
+### Музыкальный сэмплер
+
+https://codepen.io/danielchacon/full/yLQQaWj
+
+Управляется и кликом и с клавиатуры.
+
+### Редактор разметки Markdown
+
+https://codepen.io/danielchacon/full/MWzzKPV
+
+### Генератор случайных цитат
+
+https://codepen.io/danielchacon/full/rNQqqBP
